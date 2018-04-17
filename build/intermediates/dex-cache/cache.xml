@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\libs\fgtitlibs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6853848fd9a8d34794921446ed88da4b42684dcb">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\fgtitlibs_48e74e83ade750a751229e59458c87f785e71999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_d7782655e9c0d7d3b6f1e89822867187f1ca82e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_53c43818b438c06415171c41942a7e71e252de5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_3db528dcac2e62f1b2eaed4dc4ea0fdff8b4381d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1c639d911dc03f01c3b4d67fafdcfc2598dbf173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_089472106380682dfe89a2fe7e90b7e1288ccf32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.0\e1d81f36ef9a5803689b3e888eb93a8759a17be0\baseLibrary-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_db9a7f8f91eba91c67c4cbee20258eba9226d49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_6fdfde986b3e09c6d3f899b688bfbed237c9c499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_60f801309432f8543f75394e0abf539766cf4b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_6c98e79a130454a4b6bc33ba75dc53171afc6a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_b0271b28eed8a39eb5003126f5e179fdccbd2794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_ac2aca7d0df28fe869aa58f017556884e3bc2108.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_109c8a7e819afd91534818b40a9836f55c371bbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_9b365a4f5167d5e216d1331bd8f06182cfa2f4fc.jar" />
+    </item>
+
+</items>
