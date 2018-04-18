@@ -10,7 +10,7 @@ import android.os.StrictMode;
 import com.fgtit.device.Constants;
 import com.fgtit.device.FPModule;
 
-public class FpSdk1 {
+public class Demo {
     /*private FPModule fpm = new FPModule();
 
     private byte bmpdata[] = new byte[Constants.RESBMP_SIZE];

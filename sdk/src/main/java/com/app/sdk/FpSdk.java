@@ -39,8 +39,7 @@ public class FpSdk {
         fpm.SetTimeOut(Constants.TIMEOUT_LONG);
         fpm.SetLastCheckLift(true);
     }
-
-
+    
     private Handler getHandler() {
         return new Handler(new Handler.Callback() {
             @Override
@@ -116,7 +115,6 @@ public class FpSdk {
         }
     }
 
-
     public boolean matchFP(byte[] fp1, byte[] fp2, int score) {
         return fpm.MatchTemplate(fp1, fp1.length, fp2, fp2.length, score);
     }
@@ -130,7 +128,6 @@ public class FpSdk {
         if (fpm.GenerateTemplate(4)) worktype = 1;
         else mFpSdk.onStatusChange("Busy", null);
     }
-
 
     public interface IFpSdk {
         void onStatusChange(String status, Bitmap bmp);

@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
 
 
     private void initView() {
-
         tvDevStatu = (TextView) findViewById(R.id.textView1);
         tvFpStatu = (TextView) findViewById(R.id.textView2);
         ivFpImage = (ImageView) findViewById(R.id.imageView1);
