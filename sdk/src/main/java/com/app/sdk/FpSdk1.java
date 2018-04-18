@@ -10,8 +10,8 @@ import android.os.StrictMode;
 import com.fgtit.device.Constants;
 import com.fgtit.device.FPModule;
 
-public class FpSdk {
-    private FPModule fpm = new FPModule();
+public class FpSdk1 {
+    /*private FPModule fpm = new FPModule();
 
     private byte bmpdata[] = new byte[Constants.RESBMP_SIZE];
     private int bmpsize = 0;
@@ -24,10 +24,10 @@ public class FpSdk {
 
     private IFpSdk mFpSdk;
 
-    /**
+    *//**
      * Call at onCreate.
-     */
-    public FpSdk(Activity activityContext, IFpSdk fpSdk) {
+     *//*
+    public FpSdk1(Activity activityContext, IFpSdk fpSdk) {
         mFpSdk = fpSdk;
 
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
@@ -82,7 +82,7 @@ public class FpSdk {
                             if (fpm.MatchTemplate(refdata, refdata.length, matdata, matdata.length, 80))
                                 mFpSdk.onFpDetected(matdata);
                             else
-                                mFpSdk.onMatchFail("Match Fail");
+                                mFpSdk.onFpFail("Match Fail");
                         } else {
                             //tvFpStatu.setText("Enrol Template OK");
                             fpm.GetTemplateByGen(refdata);
@@ -105,12 +105,12 @@ public class FpSdk {
         }
     };
 
-    public void onResume() {
+    public void openSdk() {
         fpm.ResumeRegister();
         fpm.OpenDevice();
     }
 
-    public void onPause() {
+    public void closeSdk() {
         try {
             fpm.PauseUnRegister();
             fpm.CloseDevice();
@@ -134,7 +134,7 @@ public class FpSdk {
     }
 
     private void initView() {
-     /*   tvDevStatu = (TextView) findViewById(R.id.textView1);
+     *//*   tvDevStatu = (TextView) findViewById(R.id.textView1);
         tvFpStatu = (TextView) findViewById(R.id.textView2);
         ivFpImage = (ImageView) findViewById(R.id.imageView1);
 
@@ -161,7 +161,7 @@ public class FpSdk {
                     Toast.makeText(FpSdk.this, "Busy", Toast.LENGTH_SHORT).show();
                 }
             }
-        });*/
+        });*//*
     }
 
     public interface IFpSdk {
@@ -169,7 +169,7 @@ public class FpSdk {
 
         void onFpDetected(byte[] metadata);
 
-        void onMatchFail(String error);
+        void onFpFail(String error);
     }
-
+*/
 }

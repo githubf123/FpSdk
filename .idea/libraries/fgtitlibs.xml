@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="fgtitlibs">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/fgtitlibs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sdk/libs/fgtitlibs.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

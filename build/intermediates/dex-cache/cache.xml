@@ -3,57 +3,66 @@
 
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\libs\fgtitlibs.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="6853848fd9a8d34794921446ed88da4b42684dcb">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\fgtitlibs_48e74e83ade750a751229e59458c87f785e71999.jar" />
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_1ace0baa708efef6e1a29e9069b886aaf86f17ec.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_d7782655e9c0d7d3b6f1e89822867187f1ca82e2.jar" />
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_017fa6f00c32606312f263d3e4e359262ebe4ee2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_53c43818b438c06415171c41942a7e71e252de5b.jar" />
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_07e7cc3a46c88a90ba016cd018b0cf524cb94cce.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\jars\libs\fgtitlibs.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_3db528dcac2e62f1b2eaed4dc4ea0fdff8b4381d.jar" />
+        sha1="ec1e3b0acd5987f6860ed8bc828e08ff8e70c866">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\fgtitlibs_bd0e2a27b9b43ccfecd333fb529eae4449102742.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1c639d911dc03f01c3b4d67fafdcfc2598dbf173.jar" />
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_6f2dce635cae4641381513f7bad9354565dec06d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_089472106380682dfe89a2fe7e90b7e1288ccf32.jar" />
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3ae6e96e9cb16186046c98889d5d696b7b89200b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_b8c89066029be7c95f9264ccf09abe9b2e45354c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,70 +71,70 @@
         optimize="true"
         revision="25.0.3"
         sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_db9a7f8f91eba91c67c4cbee20258eba9226d49a.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_db9a7f8f91eba91c67c4cbee20258eba9226d49a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_6fdfde986b3e09c6d3f899b688bfbed237c9c499.jar" />
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_1eb18cd1eb80e96245ccd4180daa5aeec9d7658c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_60f801309432f8543f75394e0abf539766cf4b84.jar" />
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_f28cbb61d9be8d498c5037a991bdfc954355df7c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_6c98e79a130454a4b6bc33ba75dc53171afc6a96.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_b0271b28eed8a39eb5003126f5e179fdccbd2794.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_204523269fcd446988dd893cdcc0ff46677d2bab.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_ac2aca7d0df28fe869aa58f017556884e3bc2108.jar" />
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_0c29a9fedf04206a86f06a6d550595c3138861af.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_109c8a7e819afd91534818b40a9836f55c371bbb.jar" />
+        sha1="212c8dbf553177a8903f588029087d8fa444832d">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\Handsets-Compatible-Test_3_apr_2018-sdk-unspecified_40de91c9ea67459356d04dbfc44213c808c325f2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_50d0a5758dabb190eb0f537cb9ab71f749b1c5ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
-        <dex dex="D:\Mayank data\Projects\OnTime Git\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_9b365a4f5167d5e216d1331bd8f06182cfa2f4fc.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_b83c4b2b6b76b665aea49a59479614eb0878da29.jar" />
     </item>
 
 </items>
