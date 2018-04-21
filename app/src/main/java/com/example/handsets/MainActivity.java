@@ -88,6 +88,16 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
     }
 
     @Override
+    public void onDeviceOpen() {
+
+    }
+
+    @Override
+    public void onDeviceFail(String error) {
+
+    }
+
+    @Override
     public void showPlaceFinger() {
         tvDevStatu.setText("Place Finger");
     }

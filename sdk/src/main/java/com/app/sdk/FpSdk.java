@@ -123,19 +123,19 @@ public class FpSdk {
                     case Constants.FPM_DEVICE:
                         switch (msg.arg1) {
                             case Constants.DEV_OK:
-                                mFpSdk.onStatusChange("Open Device OK");
+                                mFpSdk.onDeviceOpen();
                                 break;
                             case Constants.DEV_FAIL:
-                                mFpSdk.onStatusChange("Open Device Fail");
+                                mFpSdk.onDeviceFail("Open Device Fail");
                                 break;
                             case Constants.DEV_ATTACHED:
-                                mFpSdk.onStatusChange("USB Device Attached");
+                                mFpSdk.onDeviceFail("USB Device Attached");
                                 break;
                             case Constants.DEV_DETACHED:
-                                mFpSdk.onStatusChange("USB Device Detached");
+                                mFpSdk.onDeviceFail("USB Device Detached");
                                 break;
                             case Constants.DEV_CLOSE:
-                                mFpSdk.onStatusChange("Device Close");
+                                mFpSdk.onDeviceFail("Device Close");
                                 break;
                         }
                         break;
@@ -184,6 +184,10 @@ public class FpSdk {
         void showPlaceFinger();
 
         void showLiftFinger(Bitmap bmp);
+
+        void onDeviceOpen();
+
+        void onDeviceFail(String error);
     }
 
 }
