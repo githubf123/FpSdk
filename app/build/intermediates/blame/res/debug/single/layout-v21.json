@@ -1,19 +1,7 @@
 [
     {
-        "merged": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "D:\\D Drive\\AndroidStudioProjects\\FP SDK\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "D:\\D Drive\\AndroidStudioProjects\\FP SDK\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "D:\\D Drive\\AndroidStudioProjects\\FP SDK\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
@@ -26,9 +14,5 @@
     {
         "merged": "D:\\D Drive\\AndroidStudioProjects\\FP SDK\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "D:\\D Drive\\AndroidStudioProjects\\FP SDK\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "D:\\Mayank data\\Projects\\OnTime Git\\Handsets-Compatible-Test_3_apr_2018\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

@@ -12,7 +12,7 @@ import com.app.sdk.FpSdk;
 
 public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
 
-    private TextView tvDevStatu, tvFpStatu;
+    private TextView tvDevStatu;
     private ImageView ivFpImage = null;
     private FpSdk fpSdk;
 
@@ -25,28 +25,31 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
         fpSdk = new FpSdk(this, this);
     }
 
-
     @Override
     protected void onResume() {
         super.onResume();
+        fpSdk.onResume();
         fpSdk.openSdk();
     }
-
 
     @Override
     protected void onPause() {
         super.onPause();
+        fpSdk.onPause();
         fpSdk.closeSdk();
     }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        fpSdk.release();
+    }
 
     private void initView() {
         tvDevStatu = (TextView) findViewById(R.id.textView1);
-        tvFpStatu = (TextView) findViewById(R.id.textView2);
         ivFpImage = (ImageView) findViewById(R.id.imageView1);
 
         final Button pause = (Button) findViewById(R.id.button1);
-        final Button resume = (Button) findViewById(R.id.button3);
         final Button btn_capture = (Button) findViewById(R.id.button2);
         final Button btn_register = (Button) findViewById(R.id.button4);
 
@@ -54,16 +57,10 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
         pause.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                fpSdk.closeSdk();
+                fpSdk.cancel();
             }
         });
 
-        resume.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                fpSdk.openSdk();
-            }
-        });
 
         btn_capture.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -80,21 +77,24 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
         });
     }
 
-
     @Override
-    public void onStatusChange(String status, Bitmap bmp) {
+    public void onStatusChange(String status) {
         if (status != null) tvDevStatu.setText(status);
-        if (bmp != null) ivFpImage.setImageBitmap(bmp);
     }
 
+    @Override
+    public void showLiftFinger(Bitmap bmp) {
+        ivFpImage.setImageBitmap(bmp);
+    }
+
+    @Override
+    public void showPlaceFinger() {
+        tvDevStatu.setText("Place Finger");
+    }
 
     @Override
     public void onFpDetected(byte[] metadata) {
         tvDevStatu.setText(metadata.toString() + " Length : " + metadata.length);
     }
 
-    @Override
-    public void onFpFail(String error) {
-        tvDevStatu.setText(error);
-    }
 }
