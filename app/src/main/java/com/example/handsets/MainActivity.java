@@ -2,6 +2,7 @@ package com.example.handsets;
 
 import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
@@ -87,14 +88,22 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
         ivFpImage.setImageBitmap(bmp);
     }
 
+    private long time = 0;
+
+
     @Override
     public void onDeviceOpen() {
-
+        tvDevStatu.setText("Open Device Ok");
+        System.out.println("Open device ok");
+        if (time + 500 < System.currentTimeMillis()) {
+            fpSdk.generateTemplate1();
+            time = System.currentTimeMillis();
+        }
     }
 
     @Override
     public void onDeviceFail(String error) {
-
+        tvDevStatu.setText("Open Device Fail");
     }
 
     @Override

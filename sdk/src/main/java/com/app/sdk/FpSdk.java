@@ -38,6 +38,8 @@ public class FpSdk {
         fpm.SetContextHandler(activityContext, mHandler);
         fpm.SetTimeOut(Constants.TIMEOUT_LONG);
         fpm.SetLastCheckLift(true);
+
+        fpm.Cancle();//This is inbuilt method
     }
 
     /**

@@ -63,7 +63,7 @@ MERGED from [com.android.databinding:library:1.2.1] D:\D Drive\AndroidStudioProj
 		INJECTED from D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\src\main\AndroidManifest.xml
 application
 ADDED from D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\src\main\AndroidManifest.xml:18:5-32:19
-MERGED from [Handsets-Compatible-Test_3_apr_2018:sdk:unspecified] D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\AndroidManifest.xml:11:5-15:19
+MERGED from [Handsets-Compatible-Test_3_apr_2018:sdk:unspecified] D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\AndroidManifest.xml:11:5-14:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
@@ -76,7 +76,7 @@ MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] D:\D Dr
 	android:label
 		ADDED from D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\src\main\AndroidManifest.xml:21:9-41
 	android:supportsRtl
-		ADDED from [Handsets-Compatible-Test_3_apr_2018:sdk:unspecified] D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\AndroidManifest.xml:14:9-35
+		ADDED from [Handsets-Compatible-Test_3_apr_2018:sdk:unspecified] D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\AndroidManifest.xml:13:9-35
 	android:allowBackup
 		ADDED from D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\src\main\AndroidManifest.xml:19:9-35
 	android:icon
