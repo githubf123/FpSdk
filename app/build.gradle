@@ -8,7 +8,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ontimeallocate"
+        applicationId "com.fpsdk"
         minSdkVersion 17
         targetSdkVersion 25
     }

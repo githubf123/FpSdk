@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\src\debug\jniLibs"/></dataSet></merger>

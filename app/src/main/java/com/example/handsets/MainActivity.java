@@ -90,7 +90,6 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
 
     private long time = 0;
 
-
     @Override
     public void onDeviceOpen() {
         tvDevStatu.setText("Open Device Ok");

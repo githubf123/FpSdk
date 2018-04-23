@@ -3,12 +3,66 @@
 
     <item
         is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_8e5b09f8241cfb8608aa425f2c7b7c88433f5ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_1ace0baa708efef6e1a29e9069b886aaf86f17ec.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_ef170d3473007cb03c93c0966ad56748427d55c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_17e34f78280c39aebad18b688d89d8f8d94c3f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_20edd2229510efd1f20e14c23997f985431e5e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\FP_SDK_on_Git\sdk\unspecified\jars\libs\fgtitlibs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cff4d70e1fd7f347694105c87cea925653e70f43">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\fgtitlibs_8001e4b2f079ba5ed512039132201bf814aa90cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_b18c49fcb17b749e53897ae27343f199840701c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_d1a4f9cb3c022806e7a7a50a2c9ec08ab0e663ee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,52 +71,43 @@
         optimize="true"
         revision="25.0.3"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_017fa6f00c32606312f263d3e4e359262ebe4ee2.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_017fa6f00c32606312f263d3e4e359262ebe4ee2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_07e7cc3a46c88a90ba016cd018b0cf524cb94cce.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\jars\libs\fgtitlibs.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ec1e3b0acd5987f6860ed8bc828e08ff8e70c866">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\fgtitlibs_bd0e2a27b9b43ccfecd333fb529eae4449102742.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_6f2dce635cae4641381513f7bad9354565dec06d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3ae6e96e9cb16186046c98889d5d696b7b89200b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_b8c89066029be7c95f9264ccf09abe9b2e45354c.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_a2fc22994d19ab0012027def396d21039058e342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_f09a8bb71b115e95dc8a3601bc03dd603d4f3d85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_c7278ed92a15671f082b76927ce1083c73e1dc16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_2a1365a95d49d4439432c7d4f1ba0c871ef59327.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,70 +116,25 @@
         optimize="true"
         revision="25.0.3"
         sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_db9a7f8f91eba91c67c4cbee20258eba9226d49a.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_db9a7f8f91eba91c67c4cbee20258eba9226d49a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_1eb18cd1eb80e96245ccd4180daa5aeec9d7658c.jar" />
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_50cd3004aa84ed33700617eabaa13ce3f08c4744.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\FP_SDK_on_Git\sdk\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_f28cbb61d9be8d498c5037a991bdfc954355df7c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_204523269fcd446988dd893cdcc0ff46677d2bab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_0c29a9fedf04206a86f06a6d550595c3138861af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\Handsets-Compatible-Test_3_apr_2018\sdk\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f7cf5a270e051367bc0f4acec549eb81f0afd13c">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\Handsets-Compatible-Test_3_apr_2018-sdk-unspecified_40de91c9ea67459356d04dbfc44213c808c325f2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_50d0a5758dabb190eb0f537cb9ab71f749b1c5ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\Handsets-Compatible-Test_3_apr_2018\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_b83c4b2b6b76b665aea49a59479614eb0878da29.jar" />
+        sha1="68a4f20f53f5085f9aa20aa9862ab0630294a8c2">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\FP_SDK_on_Git-sdk-unspecified_a0ca1f170cf3164315081f28f8755840a4c84e9d.jar" />
     </item>
 
 </items>
