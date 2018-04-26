@@ -12,42 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_ef170d3473007cb03c93c0966ad56748427d55c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_17e34f78280c39aebad18b688d89d8f8d94c3f30.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_20edd2229510efd1f20e14c23997f985431e5e91.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\FP_SDK_on_Git\sdk\unspecified\jars\libs\fgtitlibs.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="cff4d70e1fd7f347694105c87cea925653e70f43">
-        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\fgtitlibs_8001e4b2f079ba5ed512039132201bf814aa90cd.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +36,15 @@
         revision="25.0.3"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
         <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_017fa6f00c32606312f263d3e4e359262ebe4ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_ef170d3473007cb03c93c0966ad56748427d55c5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,12 +84,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_17e34f78280c39aebad18b688d89d8f8d94c3f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_20edd2229510efd1f20e14c23997f985431e5e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.0\e1d81f36ef9a5803689b3e888eb93a8759a17be0\baseLibrary-2.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="e1d81f36ef9a5803689b3e888eb93a8759a17be0">
         <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.0_db9a7f8f91eba91c67c4cbee20258eba9226d49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\exploded-aar\FP_SDK_on_Git\sdk\unspecified\jars\libs\fgtitlibs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cff4d70e1fd7f347694105c87cea925653e70f43">
+        <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\fgtitlibs_8001e4b2f079ba5ed512039132201bf814aa90cd.jar" />
     </item>
     <item
         is-multidex="false"
@@ -133,7 +133,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="68a4f20f53f5085f9aa20aa9862ab0630294a8c2">
+        sha1="ed5c2272fb9a751dcf6352857950f327d65095b3">
         <dex dex="D:\D Drive\AndroidStudioProjects\FP SDK\FP_SDK_on_Git\app\build\intermediates\pre-dexed\debug\FP_SDK_on_Git-sdk-unspecified_a0ca1f170cf3164315081f28f8755840a4c84e9d.jar" />
     </item>
 

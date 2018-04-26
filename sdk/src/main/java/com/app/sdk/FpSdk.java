@@ -3,6 +3,7 @@ package com.app.sdk;
 import android.app.Activity;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+
 import android.os.Handler;
 import android.os.Message;
 import android.os.StrictMode;
@@ -19,6 +20,10 @@ public class FpSdk {
 
     private IFpSdk mFpSdk;
     private Handler mHandler;
+    private Handler delayRestartHandler;
+    private Runnable delayRestartRunnable;
+
+    private int RESTART_DELAY = 5000;
 
     /**
      * Call at onCreate.
@@ -55,6 +60,8 @@ public class FpSdk {
     public void onPause() {
         try {
             fpm.PauseUnRegister();
+            if (delayRestartHandler != null && delayRestartRunnable != null)
+                delayRestartHandler.removeCallbacks(delayRestartRunnable);
         } catch (IllegalArgumentException e) {
             mFpSdk.onStatusChange(e.toString());
         }
@@ -160,6 +167,18 @@ public class FpSdk {
                             }
                         } else {
                             mFpSdk.onStatusChange("Generate Template Fail");
+                            if (worktype == 0) {
+                                if (delayRestartRunnable == null)
+                                    delayRestartRunnable = new Runnable() {
+                                        @Override
+                                        public void run() {
+                                            generateTemplate1();
+                                        }
+                                    };
+                                if (delayRestartHandler == null)
+                                    delayRestartHandler = new Handler();
+                                delayRestartHandler.postDelayed(delayRestartRunnable, RESTART_DELAY);
+                            }
                         }
                     }
                     break;

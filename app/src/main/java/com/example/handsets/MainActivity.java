@@ -50,18 +50,24 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
         tvDevStatu = (TextView) findViewById(R.id.textView1);
         ivFpImage = (ImageView) findViewById(R.id.imageView1);
 
-        final Button pause = (Button) findViewById(R.id.button1);
+        final Button open = (Button) findViewById(R.id.button1);
         final Button btn_capture = (Button) findViewById(R.id.button2);
+        final Button close = (Button) findViewById(R.id.button3);
         final Button btn_register = (Button) findViewById(R.id.button4);
 
-
-        pause.setOnClickListener(new View.OnClickListener() {
+        open.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                fpSdk.cancel();
+                fpSdk.openSdk();
             }
         });
 
+        close.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                fpSdk.closeSdk();
+            }
+        });
 
         btn_capture.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -88,21 +94,14 @@ public class MainActivity extends AppCompatActivity implements FpSdk.IFpSdk {
         ivFpImage.setImageBitmap(bmp);
     }
 
-    private long time = 0;
-
     @Override
     public void onDeviceOpen() {
         tvDevStatu.setText("Open Device Ok");
-        System.out.println("Open device ok");
-        if (time + 500 < System.currentTimeMillis()) {
-            fpSdk.generateTemplate1();
-            time = System.currentTimeMillis();
-        }
     }
 
     @Override
     public void onDeviceFail(String error) {
-        tvDevStatu.setText("Open Device Fail");
+        tvDevStatu.setText(error);
     }
 
     @Override
